@@ -26,14 +26,13 @@
 - 然后过一下HackQuest里的通识课，每一个知识点都有答题
 [web3通识课](https://www.hackquest.io/zh/learning-track/bfb79b36-d8cc-44a4-98f4-89ace4c880f1)
 ![image text](https://github.com/renke1993/Web3Guide/blob/main/statics/images/web3.PNG "web3通识课")
-3.学习solidity基础
+- 学习solidity基础   过一下WTF上solidity101、102、103的内容，掌握solidity语法基础
 [solidity语法基础](https://www.wtf.academy/docs/solidity-101/)
-- 过一下WTF上solidity101、102、103的内容，掌握solidity语法基础
 ![image text](https://github.com/renke1993/Web3Guide/blob/main/statics/images/wtf-sol.PNG "solidity基础语法")
 - 有时间也可以把Etherjs第一章的内容过一下，知道Ether.js常见用法
 ![image text](https://github.com/renke1993/Web3Guide/blob/main/statics/images/wtf-eth.PNG "Ethers.js")
 
-[从传统开发视角理解web3-视频]（https://www.bilibili.com/video/BV1eLSgY7EVp/）
+[从传统开发视角理解web3-视频](https://www.bilibili.com/video/BV1eLSgY7EVp/)
 ![image text](https://github.com/renke1993/Web3Guide/blob/main/statics/images/web2-web3.PNG "web2类比web3")
 
 #### 阶段二：开发技能学习
