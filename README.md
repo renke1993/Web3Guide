@@ -33,10 +33,13 @@
 - 有时间也可以把Etherjs第一章的内容过一下，知道Ether.js常见用法
 ![image text](https://github.com/renke1993/Web3Guide/blob/main/statics/images/wtf-eth.PNG "Ethers.js")
 
+[从传统开发视角理解web3-视频]（https://www.bilibili.com/video/BV1eLSgY7EVp/）
+![image text](https://github.com/renke1993/Web3Guide/blob/main/statics/images/web2-web3.PNG "web2类比web3")
+
 #### 阶段二：开发技能学习
 按照路线图分多个方向和生态，前期建议从合约开发入手，选择以太坊生态，相对来说合约开发门槛较低，岗位数量最多。而以太坊生态是目前市场份额最大的一个生态。
 - ![alt text](image.png)
-![image text](https://github.com/renke1993/Web3Guide/blob/main/statics/images/web3-1.jpeg "solidity基础语法")
+![image text](https://github.com/renke1993/Web3Guide/blob/main/statics/images/web3-1.jpeg "web3图谱")
 
 #### 阶段三：实战项目学习
 掌握一个真实项目，熟悉项目实际开发流程，能做到给到一个业务模块，知道怎么设计合约，怎么写部署脚本，怎么做单元测试，最后怎么和前后端交互，怎么上线。
