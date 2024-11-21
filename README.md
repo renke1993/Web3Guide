@@ -14,7 +14,7 @@ https://remix.ethereum.org/
 - VS Code 实际开发IDE（提前安装node）  
 0、node.js安装：https://blog.csdn.net/weixin_42474607/article/details/140769161  
 1、 solidity插件安装（扩展里搜索solidity）  
-[img](https://github.com/renke1993/Web3Guide/blob/main/statics/images/sol.PNG) 
+![image text](https://github.com/renke1993/Web3Guide/blob/main/statics/images/sol.PNG "solidity插件安装")
 2、openZeppelin安装 ：npm install @openZeppelin  
 3、web3.js安装：npm install web3  
 4、hardhat安装：npm install —save hardhat
