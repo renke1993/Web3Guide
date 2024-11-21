@@ -36,12 +36,12 @@
 #### 阶段二：开发技能学习
 按照路线图分多个方向和生态，前期建议从合约开发入手，选择以太坊生态，相对来说合约开发门槛较低，岗位数量最多。而以太坊生态是目前市场份额最大的一个生态。
 - ![alt text](image.png)
-- [web3图谱](https://github.com/renke1993/Web3Guide/blob/main/statics/images/web-1.jpeg)
+![image text](https://github.com/renke1993/Web3Guide/blob/main/statics/images/web3-1.jpeg "solidity基础语法")
 
 #### 阶段三：实战项目学习
 掌握一个真实项目，熟悉项目实际开发流程，能做到给到一个业务模块，知道怎么设计合约，怎么写部署脚本，怎么做单元测试，最后怎么和前后端交互，怎么上线。
 #### 阶段四：找工作准备
-- 准备简历
+- 准备简历  
 根据简历模板优化自己的简历，注意写清楚web3技能和项目经验，项目经验能具体到业务细节最好，表明你在这个项目中负责了哪个模块，怎么去实现，用到了哪些技术
 - 面试题库
 - [找web3工作渠道汇总](https://mp.weixin.qq.com/s?__biz=MzI3Njg5ODUwNg==&mid=2247484286&idx=1&sn=577cb6b5f8058fae04af5eaf6590f460&chksm=eb6f34dbdc18bdcd9e41d4bd325fbc7517b08dd1b863e0cd4c5486d7f63e3cfec67629211d14&token=2040061635&lang=zh_CN#rd)
@@ -54,5 +54,4 @@
 - [openZeppelin文档](https://docs.openzeppelin.com/)
 - [开发者工具箱](https://chaintool.tech/)
 - [web3js文档](https://web3js.readthedocs.io/en/v1.10.0/)
-- 7天入门web3开发课程源码
-https://github.com/renke1993/MyFirstDapp
+- [7天入门web3开发课程源码](https://github.com/renke1993/MyFirstDapp)
