@@ -7,9 +7,10 @@
 ##### 翻墙
 1. 翻墙机场（比较稳定）：[机场链接1](https://user.efcloud1.com)  
 [机场链接2](https://inv.easyfastcloud.com/register?aff=tBY213le)
-2. 翻墙软件：clash v2rnyN都可以，上面机场网站里有搭建教程
-3.领水，领测试代币，本来准备了一些领空投地址，但规则一直更新，这里教大家一个最直接的办法，去淘宝买。。。
-![alt text](9d573b254cf92365c445dd42b922f71.jpg)
+2. 翻墙软件：clash v2rnyN都可以，上面机场网站里有搭建教程  
+3. 领水，领测试代币，本来准备了一些领空投地址，但规则一直更新，这里教大家一个最直接的办法，去淘宝买。。。  
+<img src="./9d573b254cf92365c445dd42b922f71.jpg" width="100">
+
 ##### 开发环境
 - Remix 前期合约简单开发部署测试环境（在线IDE）
 [Remix在线IDE](https://remix.ethereum.org/)
