@@ -1,8 +1,8 @@
 # Web3Guide
-### 写在前面的话
+### ✨写在前面的话
 我是仁科，由于目前网络上关于web3的学习资料比较杂而乱，所以我希望建立这样一个Guide社区，帮助那些想学习web3的同学提供优质的资源，希望大家和我一起共建这个社区。
 
-### 资料目录
+### 📗资料目录
 #### 开发环境准备
 ##### 翻墙
 1. 翻墙机场（比较稳定）：https://user.efcloud1.com  
@@ -13,13 +13,14 @@ https://inv.easyfastcloud.com/register?aff=tBY213le
 https://remix.ethereum.org/
 - VS Code 实际开发IDE（提前安装node）  
 0、node.js安装：https://blog.csdn.net/weixin_42474607/article/details/140769161  
-1、 solidity插件安装（扩展里搜索solidity）   
+1、 solidity插件安装（扩展里搜索solidity）  
+[img](https://github.com/renke1993/Web3Guide/blob/main/statics/images/sol.PNG) 
 2、openZeppelin安装 ：npm install @openZeppelin  
 3、web3.js安装：npm install web3  
 4、hardhat安装：npm install —save hardhat
 
 #### 阶段一：基础扫盲
-- ./docs/web3名词解释.md
+- [./docs/web3名词解释.md](https://github.com/renke1993/Web3Guide/blob/main/docs/web3%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A.md)
 - 了解区块链原理，B站视频：https://www.bilibili.com/video/BV1mL411a7jo/?spm_id_from=333.337.search-card.all.click&vd_source=8b9a349785010e7050544b5506fe70c9
 - 或者肖臻老师视频：https://www.bilibili.com/video/BV1Vt411X7JF/?spm_id_from=333.337.search-card.all.click&vd_source=8b9a349785010e7050544b5506fe70c9
 - 然后过一下https://www.hackquest.io/zh里的通识课，每一个知识点都有答题
